@@ -40,7 +40,7 @@ const Registration = () => {
               <div className="modal-left">
                 <h1 className="modal-title">Welcome!</h1>
                 <p className="modal-desc">
-                  created by fronted developer - Ritikesh.
+                  Created by Fronted Developer - Ritikesh
                 </p>
                 <form onSubmit={handleSubmit}>
                   <div className="input-block">
